@@ -1,5 +1,5 @@
-# encurtadorUrl
-
+# Encurtador URL
+<hr>
 
 ## Um Encurtador de URL simples e rápido!
 <p>O Encurtador é uma ferramenta para encurtar links do Instagram, Facebook, YouTube, Twitter, Linked In, Pinterest, WhatsApp, TikTok, blogs e sites. Cole a URL longa e clique no botão Encurtar URL. Na próxima página, copie a URL encurtada e compartilhe em sites, chat e emails. Depois é possível saber quantos cliques ela recebeu.</p>
